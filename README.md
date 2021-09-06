@@ -1,5 +1,5 @@
  <br>👋 Hi, I’m Kate Westbrook.
- <br>👀 I’m interested in learning, design and code.
+ <br>👀 I’m interested in how people learn things, design and code.
  <br>💪 10 years project managing creative learning projects (Design Museum, RIBA) and teaching.
  <br>🌱 I’m just beginning my coding journey - currently studying Software Engineering at General Assembly.
  <br>🌻  I'm looking for my first job as a software developer!
