@@ -1,6 +1,6 @@
  <br>👋 Hi, I’m Kate Westbrook.
- <br>👀 I’m interested in how people learn things, design and code.
- <br>💪 10 years project managing creative learning projects (Design Museum, RIBA) and teaching.
+ <br>👀 I’m interested in design, code and how people learn things.
+ <br>💪 background in project managing creative learning projects (Design Museum, RIBA, Bow Arts) and teaching.
  <br>🌱 I’m just beginning my coding journey - currently studying Software Engineering at General Assembly.
  <br>🌻  I'm looking for my first job as a software developer!
  <br>📫 How to reach me: katewestbrook@live.co.uk
