@@ -5,4 +5,4 @@
  <br />💪&nbsp; background in project managing creative learning projects (Design Museum, RIBA, Bow Arts) and teaching.
  <br />📫&nbsp; How to reach me: katewestbrook@live.co.uk
 <p> Find me on <a href="https://www.linkedin.com/in/katewestbrook/">LinkedIn</a> and <a href="https://twitter.com/codegoggles">Twitter</a>.
-</p>
+</p><img src="https://www.codewars.com/users/kate-lab/badges/small"/>
